@@ -17,15 +17,15 @@
         {
           "id": 2,
           "question_type": "MC",
-          "question": "How do you insert comments in HTML?",
+          "question": "How do you insert a single line comment in python?",
           "choices": {
-            "choice_A": "<!-- -->",
+            "choice_A": "!=",
             "choice_B": "//",
             "choice_C": "/* */",
             "choice_D": "#"
           },
-          "correct_answer": "A",
-          "explanation": "To comment in HTML, '<!-- -->' is the correct syntax to comment blocks of code."
+          "correct_answer": "D",
+          "explanation": "To comment in python, "#" is the correct syntax to comment a line of code."
         },
         
         {
@@ -45,29 +45,29 @@
         {
           "id":4,
           "question_type": "MC",
-          "question": "What is the correct syntax for a style tag in HTML?",
+          "question": "What is the correct syntax for initializing variables in python?",
           "choices": {
-            "choice_A": "<style>",
-            "choice_B": "*style*",
-            "choice_C": "<sty>",
-            "choice_D": "*sty*"
+            "choice_A": "x = 5",
+            "choice_B": "String name = 'Mary'",
+            "choice_C": "var x = 5",
+            "choice_D": "int x = 5"
           },
           "correct_answer": "A",
-          "explanation": "The correct syntax for a style tag in HTML is <style>"
+          "explanation": "The correct syntax for initailizing variables in python is "x = 5""
         },
         
         {
           "id":5,
           "question_type": "MC",
-          "question": "What is the correct syntax for comments in python?",
+          "question": "What is the correct syntax for multi-line comments in python?",
           "choices": {
-            "choice_A": "<!-- -->",
+            "choice_A": "#",
             "choice_B": "//",
             "choice_C": "/* */",
-            "choice_D": "#"
+            "choice_D": """""
           },
           "correct_answer": "D",
-          "explanation": "To comment out a single line in python the '#' is used."
+          "explanation": "To comment multiple lines in python the '"""' is used."
         }
      ]
 }
