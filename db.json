@@ -22,7 +22,7 @@
             "choice_A": "list",
             "choice_B": "dict",
             "choice_C": "int",
-            "choice_D": "'double'"
+            "choice_D": "double"
           },
           "correct_answer": "D",
           "explanation": "Double is not a data type in python, it is in java."
