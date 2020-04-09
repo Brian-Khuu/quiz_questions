@@ -61,7 +61,7 @@
           "question_type": "MC",
           "question": "What is the correct syntax for multi-line comments in python?",
           "choices": {
-            "choice_A": "#",
+            "choice_A": "'#'",
             "choice_B": "//",
             "choice_C": "/* */",
             "choice_D": """"""""
