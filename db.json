@@ -64,7 +64,7 @@
             "choice_A": "#",
             "choice_B": "//",
             "choice_C": "/* */",
-            "choice_D": """"comment""""
+            "choice_D": """"""""
           },
           "correct_answer": "D",
           "explanation": "To comment multiple lines in python multiple quotes are used."
