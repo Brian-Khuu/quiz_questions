@@ -22,7 +22,7 @@
             "choice_A": "!=",
             "choice_B": "//",
             "choice_C": "/* */",
-            "choice_D": "#"
+            "choice_D": "'#'"
           },
           "correct_answer": "D",
           "explanation": "To comment in python, '#' is the correct syntax to comment a line of code."
