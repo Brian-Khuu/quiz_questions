@@ -53,7 +53,7 @@
             "choice_D": "int x = 5"
           },
           "correct_answer": "A",
-          "explanation": "The correct syntax for initailizing variables in python is "x = 5""
+          "explanation": "The correct syntax for initailizing variables in python is 'x = 5'"
         },
         
         {
@@ -64,10 +64,10 @@
             "choice_A": "#",
             "choice_B": "//",
             "choice_C": "/* */",
-            "choice_D": """""
+            "choice_D": """"comment""""
           },
           "correct_answer": "D",
-          "explanation": "To comment multiple lines in python the '"""' is used."
+          "explanation": "To comment multiple lines in python multiple quotes are used."
         }
      ]
 }
