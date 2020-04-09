@@ -1,13 +1,73 @@
 {
-  "MC_questions": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "Text_questions": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "Image_questions":[
-  ]
+   "Python_Quiz": [     
+        {
+          "id": 1,
+          "question_type": "MC",
+          "question": "What is the current version of python?",
+          "choices": {
+            "choice_A": "2.7.4",
+            "choice_B": "3.8.2",
+            "choice_C": "1.1",
+            "choice_D": "3.7.7"
+          },
+          "correct_answer": "B",
+          "explanation": "The most up-to-date python version is 3.8.2."
+        },
+        
+        {
+          "id": 2,
+          "question_type": "MC",
+          "question": "How do you insert comments in HTML?",
+          "choices": {
+            "choice_A": "<!-- -->",
+            "choice_B": "//",
+            "choice_C": "/* */",
+            "choice_D": "#"
+          },
+          "correct_answer": "A",
+          "explanation": "To comment in HTML, "<!-- -->" is the correct syntax to comment blocks of code."
+        },
+        
+        {
+          "id":3,
+          "question_type": "MC",
+          "question": "What is the modulo operator in python?",
+          "choices": {
+            "choice_A": "+",
+            "choice_B": "/",
+            "choice_C": "%",
+            "choice_D": "-"
+          },
+          "correct_answer": "C",
+          "explanation": "The modulo operator in python is %."
+        },
+        
+        {
+          "id":4,
+          "question_type": "MC",
+          "question": "What is the correct syntax for a style tag in HTML?",
+          "choices": {
+            "choice_A": "<style>",
+            "choice_B": "*style*",
+            "choice_C": "<sty>",
+            "choice_D": "*sty*"
+          },
+          "correct_answer": "A",
+          "explanation": "The correct syntax for a style tag in HTML is <style>"
+        },
+        
+        {
+          "id":5,
+          "question_type": "MC",
+          "question": "What is the correct syntax for comments in python?",
+          "choices": {
+            "choice_A": "<!-- -->",
+            "choice_B": "//",
+            "choice_C": "/* */",
+            "choice_D": "#"
+          },
+          "correct_answer": "D",
+          "explanation": "To comment out a single line in python the '#' is used."
+        }
+     ]
 }
