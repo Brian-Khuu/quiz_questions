@@ -25,7 +25,7 @@
             "choice_D": "#"
           },
           "correct_answer": "A",
-          "explanation": "To comment in HTML, "<!-- -->" is the correct syntax to comment blocks of code."
+          "explanation": "To comment in HTML, '<!-- -->' is the correct syntax to comment blocks of code."
         },
         
         {
