@@ -69,5 +69,41 @@
           "correct_answer": "D",
           "explanation": "The correct syntax to initialize arrays is arr = [0, 1, 2]."
         }
+      
+        {
+          "id":6,
+          "question_type": "TF",
+          "question": "Semi-colons are considered pythonic.",
+          "choices": {
+            "choice_A": "True",
+            "choice_B": "False",
+          },
+          "correct_answer": "B",
+          "explanation": "Pythonic code usually includes single statements on each line indicated by tabbing."
+        },
+        
+        {
+          "id":7,
+          "question_type": "TF",
+          "question": "Python has booleans.",
+          "choices": {
+            "choice_A": "True",
+            "choice_B": "False"
+          },
+          "correct_answer": "A",
+          "explanation": "Booleans values and functions are included in python."
+        },
+        
+        {
+          "id":8,
+          "question_type": "TF",
+          "question": "You can create Dictionaries in python.",
+          "choices": {
+            "choice_A": "True",
+            "choice_B": "False",
+          },
+          "correct_answer": "A",
+          "explanation": "Dictionaries can be created and used within python."
+        },
      ]
 }
