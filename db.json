@@ -139,7 +139,7 @@
         },
         
         {
-          "id":10,
+          "id":13,
           "question_type": "Image",
           "question": "What does the following represent?",
           "question_image": "https://github.com/Brian-Khuu/CUS1172_Assests/blob/master/quizpic_1.png?raw=true",
