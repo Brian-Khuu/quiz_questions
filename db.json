@@ -104,39 +104,6 @@
           },
           "correct_answer": "A",
           "explanation": "Dictionaries can be created and used within python."
-        },
-        
-        {
-          "id":9,
-          "question_type": "Fill In",
-          "question": "________ are used to store values.",
-          "correct_answer": "Variables",
-          "explanation": "To store values in python, variables are used."
-        },
-        
-        {
-          "id":10,
-          "question_type": "Fill In",
-          "question": "A while loop can be used to ________ through statements.",
-          "correct_answer": "iterate",
-          "explanation": "A while loop can be used to iterate through code multiple times depending on the condition."
-        },
-        
-        {
-          "id":11,
-          "question_type": "Fill In",
-          "question": "An array starts with the index value ________.",
-          "correct_answer": "zero",
-          "explanation": "Arrays always starts indexing from the value zero."
-        },
-        
-        {
-          "id":12,
-          "question_type": "Fill In",
-          "question": "________ values consist of zeros and ones.",
-          "correct_answer": "Binary",
-          "explanation": "Binary code consists of 0s and 1s"
         }
-      
      ]
 }
