@@ -76,7 +76,7 @@
           "question": "Semi-colons are considered pythonic.",
           "choices": {
             "choice_A": "True",
-            "choice_B": "False",
+            "choice_B": "False"
           },
           "correct_answer": "B",
           "explanation": "Pythonic code usually includes single statements on each line indicated by tabbing."
@@ -100,7 +100,7 @@
           "question": "You can create Dictionaries in python.",
           "choices": {
             "choice_A": "True",
-            "choice_B": "False",
+            "choice_B": "False"
           },
           "correct_answer": "A",
           "explanation": "Dictionaries can be created and used within python."
