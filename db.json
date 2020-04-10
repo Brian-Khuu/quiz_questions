@@ -69,7 +69,7 @@
           "correct_answer": "D",
           "explanation": "The correct syntax to initialize arrays is arr = [0, 1, 2]."
         },
-      
+        
         {
           "id":6,
           "question_type": "TF",
