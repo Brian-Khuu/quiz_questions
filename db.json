@@ -136,6 +136,6 @@
           "question": "________ values consist of zeros and ones.",
           "correct_answer": "Binary",
           "explanation": "Binary code consists of 0s and 1s"
-        },
+        }
      ]
 }
