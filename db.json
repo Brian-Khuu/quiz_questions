@@ -136,6 +136,21 @@
           "question": "________ values consist of zeros and ones.",
           "correct_answer": "Binary",
           "explanation": "Binary code consists of 0s and 1s"
+        },
+        
+        {
+          "id":10,
+          "question_type": "QuestionImage",
+          "question": "What does the following represent?",
+          "question_image": "https://github.com/Brian-Khuu/CUS1172_Assests/blob/master/quizpic_1.png?raw=true",
+          "choices": {
+            "choice_A": "Array",
+            "choice_B": "List",
+            "choice_C": "Tuple",
+            "choice_D": "Dictionary"
+          },
+          "correct_answer": "D",
+          "explanation": "The picture represents a dictionary."
         }
      ]
 }
