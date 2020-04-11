@@ -196,6 +196,62 @@
           },
           "correct_answer": "C",
           "explanation": "The picture represents a list."
-        }
+        },
+        
+        {
+          "id": 17,
+          "question_type": "MC",
+          "question": "What is the current version of python?",
+          "choices": {
+            "choice_A": "2.7.4",
+            "choice_B": "3.8.2",
+            "choice_C": "1.1",
+            "choice_D": "3.7.7"
+          },
+          "correct_answer": "B",
+          "explanation": "The most up-to-date python version is 3.8.2."
+        },
+        
+        {
+          "id": 18,
+          "question_type": "MC",
+          "question": "What is the current version of python?",
+          "choices": {
+            "choice_A": "2.7.4",
+            "choice_B": "3.8.2",
+            "choice_C": "1.1",
+            "choice_D": "3.7.7"
+          },
+          "correct_answer": "B",
+          "explanation": "The most up-to-date python version is 3.8.2."
+        },
+        
+         {
+          "id": 19,
+          "question_type": "MC",
+          "question": "What is the current version of python?",
+          "choices": {
+            "choice_A": "2.7.4",
+            "choice_B": "3.8.2",
+            "choice_C": "1.1",
+            "choice_D": "3.7.7"
+          },
+          "correct_answer": "B",
+          "explanation": "The most up-to-date python version is 3.8.2."
+        },
+        
+        {
+          "id": 20,
+          "question_type": "MC",
+          "question": "What is the current version of python?",
+          "choices": {
+            "choice_A": "2.7.4",
+            "choice_B": "3.8.2",
+            "choice_C": "1.1",
+            "choice_D": "3.7.7"
+          },
+          "correct_answer": "B",
+          "explanation": "The most up-to-date python version is 3.8.2."
+        },
      ]
 }
