@@ -226,7 +226,7 @@
           "explanation": "The most up-to-date python version is 3.8.2."
         },
         
-         {
+        {
           "id": 19,
           "question_type": "MC",
           "question": "What is the current version of python?",
