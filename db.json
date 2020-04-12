@@ -200,44 +200,38 @@
         
         {
           "id": 17,
-          "question_type": "MC",
-          "question": "What is the current version of python?",
+          "question_type": "TF",
+          "question": "Integer is a numeric data type in python.",
           "choices": {
-            "choice_A": "2.7.4",
-            "choice_B": "3.8.2",
-            "choice_C": "1.1",
-            "choice_D": "3.7.7"
+            "choice_A": "True",
+            "choice_B": "False"
           },
-          "correct_answer": "B",
-          "explanation": "The most up-to-date python version is 3.8.2."
+          "correct_answer": "A",
+          "explanation": "Integer is a valid numeric data type."
         },
         
         {
           "id": 18,
-          "question_type": "MC",
-          "question": "What is the current version of python?",
+          "question_type": "TF",
+          "question": "Lambda functions can be made in python.",
           "choices": {
-            "choice_A": "2.7.4",
-            "choice_B": "3.8.2",
-            "choice_C": "1.1",
-            "choice_D": "3.7.7"
+            "choice_A": "True",
+            "choice_B": "False"
           },
-          "correct_answer": "B",
-          "explanation": "The most up-to-date python version is 3.8.2."
+          "correct_answer": "A",
+          "explanation": "Lambda functions are possible in python."
         },
         
         {
           "id": 19,
-          "question_type": "MC",
-          "question": "What is the current version of python?",
+          "question_type": "TF",
+          "question": "Inheritance is possible in python.",
           "choices": {
-            "choice_A": "2.7.4",
-            "choice_B": "3.8.2",
-            "choice_C": "1.1",
-            "choice_D": "3.7.7"
+            "choice_A": "True",
+            "choice_B": "False"
           },
-          "correct_answer": "B",
-          "explanation": "The most up-to-date python version is 3.8.2."
+          "correct_answer": "A",
+          "explanation": "Inheritance can be done in python."
         },
         
         {
