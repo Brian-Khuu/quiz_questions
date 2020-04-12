@@ -236,16 +236,16 @@
         
         {
           "id": 20,
-          "question_type": "MC",
-          "question": "What is the current version of python?",
+          "question_type": "ImageAns",
+          "question": "Which picture displays a set?",
           "choices": {
-            "choice_A": "2.7.4",
-            "choice_B": "3.8.2",
-            "choice_C": "1.1",
-            "choice_D": "3.7.7"
+            "choice_A": "https://github.com/Brian-Khuu/CUS1172_Assests/blob/master/quizans_1.png?raw=true",
+            "choice_B": "https://github.com/Brian-Khuu/CUS1172_Assests/blob/master/quizans_2.png?raw=true",
+            "choice_C": "https://github.com/Brian-Khuu/CUS1172_Assests/blob/master/quizans_3.png?raw=true",
+            "choice_D": "https://github.com/Brian-Khuu/CUS1172_Assests/blob/master/quizans_4.png?raw=true"
           },
           "correct_answer": "B",
-          "explanation": "The most up-to-date python version is 3.8.2."
+          "explanation": "A set is made with brackets."
         },
         
         {
