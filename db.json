@@ -236,7 +236,7 @@
         
         {
           "id": 20,
-          "question_type": "ImageAns",
+          "question_type": "PicAns",
           "question": "Which picture displays a set?",
           "choices": {
             "choice_A": "https://github.com/Brian-Khuu/CUS1172_Assests/blob/master/quizans_1.png?raw=true",
